@@ -1,0 +1,7 @@
+{
+  "asr_model": "models/whisper-small-fp16-ov",
+  "llm_model": "models/Qwen3-4B-int4-ov",
+  "asr_device": "NPU",
+  "llm_device": "GPU",
+  "language": "es"
+}
