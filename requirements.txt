@@ -1,0 +1,7 @@
+# GenAI selects compatible OpenVINO runtime/tokenizers dependencies.
+openvino-genai>=2026.1,<2027
+streamlit>=1.45,<2
+huggingface-hub>=0.30,<2
+numpy>=1.26,<3
+scipy>=1.12,<2
+soundfile>=0.12,<1
