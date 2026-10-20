@@ -1,4 +1,4 @@
-# Dell + Intel: de la reunión a la acción
+# AI PC DEMO
 
 A Windows-native local Python demo for a commercial presentation. Upload a fictional customer meeting WAV, transcribe it on the Intel NPU, and generate Spanish requirements, questions, next steps, and a follow-up email on the integrated Intel GPU. A presenter can change a requirement and regenerate.
 
